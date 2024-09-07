@@ -1,0 +1,35 @@
+.buttons {
+    display: flex;
+    width: 40%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.buttons button {
+    width: 10vw;
+    height: 10vh;
+    padding: 30px 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.display-input {
+    width: 30%;
+    height: 5vh;
+    font-size: 2vw;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    margin-top: 5vh;
+}
+
+.equal-button {
+    background-color: green;
+}
